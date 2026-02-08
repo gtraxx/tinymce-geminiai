@@ -1,0 +1,15 @@
+# Système
+.DS_Store
+Thumbs.db
+
+# IDE (VS Code, JetBrains, etc.)
+.vscode/
+.idea/
+*.swp
+
+# Sécurité & Config (Si vous créez un bridge privé)
+bridge-private.php
+.env
+
+# Logs
+*.log
